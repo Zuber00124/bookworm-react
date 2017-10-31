@@ -22,3 +22,9 @@ package.json
 ```cmd promt
     yarn add react-router react-router-dom
 ```
+git commit
+```cmd promt
+    yarn add semantic-ui-react semantic-ui-css
+```
+git commit
+    
