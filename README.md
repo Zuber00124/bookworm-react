@@ -28,3 +28,12 @@ git commit
 ```
 git commit
     
+    yarn add validator
+    
+    yarn add prop-types
+    
+# PART 2
+
+    yarn add redux react-redux redux-thunk
+    yarn add --dev redux-devtools-extension
+commit redux-setup
