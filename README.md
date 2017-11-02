@@ -35,5 +35,5 @@ git commit
 # PART 2
 
     yarn add redux react-redux redux-thunk
-    yarn add --dev redux-devtools-extension
-commit redux-setup
+    yarn add  redux-devtools-extension
+git commit redux-setup
