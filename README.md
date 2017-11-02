@@ -35,5 +35,19 @@ git commit
 # PART 2
 
     yarn add redux react-redux redux-thunk
-    yarn add  redux-devtools-extension
-git commit redux-setup
+    yarn add --dev redux-devtools-extension
+commit redux-setup
+    
+    yarn add axios
+    
+# Create new project 
+## bookworm-api
+    yarn add --dev babel-cli babel-preset-env
+
+Add: .babel.rc
+
+    yarn add --dev nodemon
+
+# Define proxy in bookworm-react- package.json
+
+
